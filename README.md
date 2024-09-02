@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ I have a Bachelor of Science in Computer Science @ CSUSB in an ambition to be a Software Engineer!
+
+ My portfolio at the moment is small but I plan to fill it up with past projects or upcoming projects to stay tuned!
+ 
