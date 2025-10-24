@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **CettleK/CettleK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- I have a Bachelor of Science in Computer Science @ CSUSB with an ambition to be a Software Engineer!
+Bachelor of Science in Computer Science @ CSUSB with an ambition to be a Software Engineer!
 
- My portfolio at the moment is small but I plan to fill it up with my past projects or upcoming projects so stay tuned!
  
