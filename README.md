@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Bachelor of Science in Computer Science @ CSUSB with an ambition to be a Software Engineer!
+Software Developer formerly @ TrakMotive
+
+Bachelor of Science in Computer Science @ CSUSB
+
 
  
