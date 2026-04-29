@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Developer formerly @ TrakMotive
+Software Developer Intern formerly @ TrakMotive
 
 Bachelor of Science in Computer Science @ CSUSB
 
